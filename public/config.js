@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/stabilytics",
   "VITE_SEO_SITE_NAME": "Stabilytics",
   "VITE_SEO_SITE_DESCRIPTION": "Stabilytics - The premier Web3 Analytics Platform for tracking and analyzing stablecoin performance",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/stabilytics-perps-0363/",
+  "VITE_SEO_SITE_URL": "https://perp.stabilytics.fi",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@stabilytics",
