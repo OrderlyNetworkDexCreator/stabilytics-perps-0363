@@ -1,8 +1,8 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: 'JetBrains Mono', 'monospace';
 
   /* colors */
-  --oui-color-primary: 176 132 233;
+  --oui-color-primary: 231 0 11;
   --oui-color-primary-light: 213 190 244;
   --oui-color-primary-darken: 137 76 209;
   --oui-color-primary-contrast: 255 255 255;
@@ -52,7 +52,7 @@
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 0 97;
+  --oui-gradient-primary-start: 231 0 11;
   --oui-gradient-primary-end: 189 107 237;
 
   --oui-gradient-secondary-start: 81 42 121;
@@ -77,12 +77,12 @@
   --oui-gradient-neutral-end: 38 41 46;
 
   /* rounded */
-  --oui-rounded-sm: 2px;
-  --oui-rounded: 4px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-sm: 0px;
+  --oui-rounded: 0px;
+  --oui-rounded-md: 0px;
+  --oui-rounded-lg: 0px;
+  --oui-rounded-xl: 0px;
+  --oui-rounded-2xl: 0px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
